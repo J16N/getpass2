@@ -18,7 +18,7 @@ getpass2.getpass("Password: )
 ```
 
 ## Dependency
-*Works currently with **Python 2.7.x***
+*Works currently with **Python 2.7.x**.*
 	
 #### Linux and MacOS 10.x.x
 	Requires getch 1.0
