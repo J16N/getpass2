@@ -6,7 +6,6 @@ The default symbol for the encryption is '*'.
 
 ## Usage:
 Similar like getpass.
-
 ```python
 #INPUT
 import getpass2
@@ -15,3 +14,11 @@ getpass2.getpass("Password: ) # Giving a label to the input.
 
 #OUTPUT
 #Password: ####
+```
+
+## Dependency
+*Works currently with **Python 2.7.x***
+  ### Linux and MacOS 10.x.x
+  Requires getch 1.0
+  ### Windows
+  Requires colorama 0.3.9
