@@ -18,7 +18,7 @@ getpass2.getpass("Password: ) # Giving a label to the input.
 
 ## Dependency
 *Works currently with **Python 2.7.x***
-	#### Linux and MacOS 10.x.x
+#### Linux and MacOS 10.x.x
 		Requires getch 1.0
-	#### Windows
+#### Windows
   		Requires colorama 0.3.9
