@@ -10,7 +10,7 @@ Similar like getpass.
 #INPUT
 import getpass2
 getpass2.set_echo = '#' # Setting the symbol for encryption which will going to be displayed. (Optional)
-getpass2.getpass("Password: )  # Giving a label to the input. (One arguement is mandatory)
+getpass2.getpass("Password: )  ## Giving a label to the input. (One arguement is mandatory)
 
 #OUTPUT
 #Password: ####
