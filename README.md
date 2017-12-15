@@ -20,6 +20,6 @@ getpass2.getpass("Password: ) # Giving a label to the input.
 *Works currently with **Python 2.7.x***
 	
 #### Linux and MacOS 10.x.x
-		Requires getch 1.0
+	Requires getch 1.0
 #### Windows
- 		Requires colorama 0.3.9
+ 	Requires colorama 0.3.9
