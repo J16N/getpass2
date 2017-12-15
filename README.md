@@ -4,5 +4,14 @@ A module similar like getpass in python except that echos are being encrypted be
 You can even change the the symbol with which the echos are being displayed.
 The default symbol for the encryption is '*'.
 
-Usage:
+## Usage:
 Similar like getpass.
+
+```python
+#INPUT
+import getpass2
+getpass2.set_echo = '#' # Setting the symbol for encryption which will going to be displayed. (Optional)
+getpass2.getpass("Password: ) # Giving a label to the input.
+
+#OUTPUT
+#Password: ####
