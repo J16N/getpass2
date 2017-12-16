@@ -6,7 +6,7 @@ if sys.platform == 'win32' or sys.platform == 'cygwin':
 		import colorama
 		colorama.init()
 		
-		echo = '*'
+		set_echo = '*'
 
 		def getpass(label):
 			print label,
